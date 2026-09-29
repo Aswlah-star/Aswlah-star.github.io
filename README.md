@@ -1,4 +1,4 @@
-Hi, I'm XYZ
+Hi, I'm rosh
 B.Voc Graduate | Software Developer
 
 I'm a B.Voc graduate with 2+ years of experience in software development and technical support, with a focus on building practical applications and developing reliable technical solutions.
