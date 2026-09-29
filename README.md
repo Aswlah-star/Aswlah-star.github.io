@@ -1,133 +1,142 @@
-Hi there, I'm XYZ 👋
-B.Voc Graduate | Software & Technology Professional
+Hi, I'm XYZ
+B.Voc Graduate | Software Developer
 
-I'm a B.Voc graduate with 2+ years of experience in software development and technical support. I enjoy building practical applications, exploring new technologies, solving technical problems, and continuously improving my development skills.
+I'm a B.Voc graduate with 2+ years of experience in software development and technical support, with a focus on building practical applications and developing reliable technical solutions.
 
-🔭 Currently working on software development and technology-related projects
+I have experience working with programming, web technologies, databases, software testing, troubleshooting, and version control. I enjoy learning new technologies, working on practical projects, and continuously improving my development skills.
 
-🌱 Currently improving my skills in software development, databases, and web technologies
+About Me
 
-💻 Interested in software development, web development, and technology
+🎓 B.Voc Graduate specializing in Software Development / Information Technology
 
-🤝 Open to collaborating on interesting software and technology projects
+💼 2+ years of experience in software development and technical support
 
-📚 Always learning and exploring new tools and technologies
+💻 Interested in software development, web technologies, and database systems
+
+🌱 Currently expanding my knowledge of modern development practices and technologies
+
+🤝 Interested in collaborating on software and technology projects
 
 📍 Based in Kochi, Kerala, India
 
-🛠️ Technical Skills
-Programming & Development
+Technical Skills
+Category	Technologies
+Programming	Python, Java
+Web Development	HTML, CSS, JavaScript
+Database	SQL
+Version Control	Git, GitHub
+Featured Projects
+Student Management System
 
-🐍 Python
-
-☕ Java
-
-🌐 HTML & CSS
-
-⚡ JavaScript
-
-🗄️ SQL
-
-🔧 Git & GitHub
-
-🚀 Projects
-📚 Student Management System
-
-A basic application designed to manage student records.
+A database-driven application developed to manage and maintain student records.
 
 Technologies: Python, SQL
 
-Features:
+Key Features
 
-Add student records
+Student record creation and management
 
-Update student information
+Update and deletion of student information
 
-Search student records
+Student record search functionality
 
-Delete records
+Database storage and retrieval
 
-Store and retrieve data using SQL
+Basic data management operations
 
-🌐 Responsive Personal Portfolio
+Responsive Personal Portfolio
 
-A responsive personal portfolio website showcasing education, technical skills, projects, and contact information.
+A responsive portfolio website designed to present professional information, technical skills, projects, and contact details.
 
 Technologies: HTML, CSS, JavaScript
 
-Features:
+Key Features
 
-Responsive design
+Responsive layout for desktop and mobile devices
 
-About/education section
+Professional profile and education sections
 
-Technical skills section
+Technical skills and project showcase
 
-Project showcase
+Contact information section
 
-Contact section
+Clean and user-friendly interface
 
-Desktop and mobile compatibility
-
-💼 Professional Experience
+Professional Experience
 Junior Software Developer
 
 ABC Technologies Pvt. Ltd.
 
-Web application development and maintenance
+Contributed to the development and maintenance of web-based applications
 
-Feature development and testing
+Developed and tested application features according to project requirements
 
-Database management
+Worked with databases for data storage and retrieval
 
-Bug identification and troubleshooting
+Assisted with debugging and troubleshooting software issues
 
-Technical documentation
+Collaborated with developers and team members during development and testing
 
-Team collaboration
+Prepared technical documentation and project reports
 
 Technical Support / Software Intern
 
 DEF Solutions
 
-Technical support and troubleshooting
+Provided technical support and assisted with software-related issues
 
-Software testing and quality checking
+Supported software testing and quality assurance activities
 
-Documentation and data management
+Assisted with documentation and data management
 
-Development team support
+Worked with development teams on testing and technical tasks
 
-🏆 Professional Activities
+Participated in project discussions and team activities
 
-Participated in technology workshops and professional networking events
+Certifications
 
-Attended industry-oriented seminars and technical sessions
-
-Volunteered in technology and professional events
-
-Collaborated with peers on technology-focused projects
-
-📜 Certifications
-
-Certificate in Python Programming
+Python Programming
 
 Introduction to Web Development
 
 SQL and Database Fundamentals
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
-🌐 Connect With Me
+Professional Activities
 
-📧 Email: xyz.sample@email.com
+Participated in technical workshops and industry-oriented seminars
 
-💼 LinkedIn: https://linkedin.com/in/xyz-sample
+Attended technology and software development sessions
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+Participated in professional networking activities
 
-⚡ A Little About Me
+Volunteered in technical and professional events
 
-I believe in learning by building. I'm interested in developing practical software solutions, improving my programming skills, and working with people who enjoy solving real-world problems through technology.
+Collaborated with peers on technology-focused projects
 
-Thanks for visiting my profile! ⭐
+GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Statistics" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" alt="Most Used Languages" /> </p>
+Connect
+
+LinkedIn: https://linkedin.com/in/xyz-sample
+
+GitHub: https://github.com/YOUR_USERNAME
+
+Email: xyz.sample@email.com
+
+Currently Learning
+
+I'm continuously working on improving my knowledge of:
+
+Software development practices
+
+Web development
+
+Database management
+
+Programming and problem solving
+
+Version control and collaborative development
+
+Thanks for visiting my profile.
+
+I'm always interested in learning, building, and collaborating on meaningful technology projects.
